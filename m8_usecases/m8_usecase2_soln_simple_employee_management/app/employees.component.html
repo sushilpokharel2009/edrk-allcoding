@@ -1,0 +1,24 @@
+<h2>My Employees</h2>
+
+<ul class="employees">
+  <li *ngFor="let employee of employees" (click)="onSelect(employee)" [class.selected]="employee === selectedEmployee">
+    <span class="employee-element">
+      <span class="badge">{{employee.id}}</span> {{employee.name}}
+    </span>
+    <button class="delete-button" (click)="deleteEmployee(employee, $event)">Delete</button>
+  </li>
+</ul>
+
+
+<div class="error" *ngIf="error">{{error}}</div>
+<button (click)="addEmployee()">Add New Employee</button>
+<div *ngIf="addingEmployee">
+  <my-employee-detail (close)="close($event)"></my-employee-detail>
+</div>
+
+<div *ngIf="selectedEmployee">
+  <h2>
+    {{selectedEmployee.name | uppercase}}
+  </h2>
+  <button (click)="gotoDetail()">View Details</button>
+</div>

@@ -1,0 +1,5 @@
+[17:00:06.579] [INFO] [10180] [DESKTOP-GSL7TOJ] [logger] [127.0.0.1 - - "POST /admin/login HTTP/1.1" 401 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"]
+[17:00:25.041] [INFO] [7336] [DESKTOP-GSL7TOJ] [logger] [127.0.0.1 - - "POST /admin/login HTTP/1.1" 401 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"]
+[17:00:43.039] [INFO] [5220] [DESKTOP-GSL7TOJ] [logger] [127.0.0.1 - - "POST /admin/login HTTP/1.1" 401 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"]
+[17:01:11.806] [INFO] [9832] [DESKTOP-GSL7TOJ] [logger] [127.0.0.1 - - "POST /admin/login HTTP/1.1" 401 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"]
+[17:02:06.047] [INFO] [7552] [DESKTOP-GSL7TOJ] [logger] [127.0.0.1 - - "POST /admin/login HTTP/1.1" 401 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"]

@@ -1,0 +1,19 @@
+<form (ngSubmit)="addItem(title)" class="well well-sm">
+    <div  class="form-group">
+        <input type="text"  class="form-control" name="title" [(ngModel)]="title" placeholder="Add Item">
+    </div>
+</form>
+<div>
+    <div *ngFor="let item of items">
+        <div class="col-md-1">
+            <input type="checkbox"  name="title" [checked]="item.isDone" (click)="updateItem(item)">
+        </div>
+        <div class="col-md-7">
+            {{item.title}}
+        </div>
+        <div class="col-md-4">
+            <input type="button"  class="btn btn-danger" value="Delete" (click)="deleteItem(item._id)">
+        </div>
+        <br><br>
+    </div>
+</div>

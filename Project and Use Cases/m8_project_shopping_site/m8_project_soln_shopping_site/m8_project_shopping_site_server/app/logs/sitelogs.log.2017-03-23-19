@@ -1,0 +1,5 @@
+[19:34:25.882] [INFO] [748] [DESKTOP-GSL7TOJ] [logger] [127.0.0.1 - - "GET /shop/products HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"]
+[19:34:33.473] [INFO] [748] [DESKTOP-GSL7TOJ] [logger] [127.0.0.1 - - "GET /shop/product HTTP/1.1" 405 89 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"]
+[19:34:37.880] [INFO] [748] [DESKTOP-GSL7TOJ] [logger] [127.0.0.1 - - "GET /shop/products HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"]
+[19:34:48.178] [INFO] [748] [DESKTOP-GSL7TOJ] [logger] [127.0.0.1 - - "GET /shop/products HTTP/1.1" 200 398 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"]
+[19:35:28.713] [INFO] [748] [DESKTOP-GSL7TOJ] [logger] [127.0.0.1 - - "GET /shop/products HTTP/1.1" 200 398 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"]

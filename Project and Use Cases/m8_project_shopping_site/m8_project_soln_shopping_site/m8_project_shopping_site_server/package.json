@@ -1,0 +1,29 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "shopping site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "edureka",
+    "shopping",
+    "site",
+    "example"
+  ],
+  "author": "Edureka",
+  "license": "ISC",
+  "dependencies": {
+    "appmetrics-dash": "^3.1.0",
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "lodash": "^4.17.4",
+    "log4js": "^1.1.1",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.9.1",
+    "passport": "^0.3.2",
+    "socket.io": "^1.7.3"
+  }
+}

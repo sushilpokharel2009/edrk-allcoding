@@ -1,0 +1,38 @@
+/*
+	Details can be found at 
+	http://jasmine.github.io/
+*/
+'use strict';
+
+describe("name of the test group", function(){
+
+beforeEach(function(){
+/* Run this before any tests */
+})
+
+it("name of the test within the test", function(){
+})
+
+xit("name of the test within the test that will not run or will be skipped in the test group", function(){
+})
+
+afterEach(function(){
+/* Run this after tests */
+})
+
+});
+
+ddescribe("name of the test group2", function(){
+/* Run only this test group2 */
+
+it("name of the test within the test", function(){
+})
+
+iit("name of the test within the test that will only run in test group", function(){
+})
+
+})
+
+xdescribe("name of the test group3", function(){
+/* Skip only this test group3 */
+})

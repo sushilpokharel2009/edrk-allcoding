@@ -1,0 +1,26 @@
+.search-result{
+  border-bottom: 1px solid #dddddd;
+  border-left: 1px solid #dddddd;
+  border-right: 1px solid #dddddd;
+  width:195px;
+  height: auto;
+  padding: 4px;
+  font-size: 14px;
+  position: absolute;
+  background-color: white;
+  word-wrap: break-word;
+  cursor: pointer;
+}
+#search-component{
+  display: inline;
+    float: right;
+    color: #555;
+}
+.search-new{
+  display: inline-block;
+}
+#search-box{
+  width: 200px;
+  height: 20px;
+  border: 1px solid lightgray;
+}
